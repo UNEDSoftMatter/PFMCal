@@ -1,5 +1,7 @@
 # PFMCal
 
+https://doi.org/10.1016/j.cpc.2017.07.019
+
 The present software is an update of the previously published MatLab
 code for the calibration of optical tweezers in the high-resolution detection
 of the Brownian motion of non-spherical probes [1]. In this instance, an
